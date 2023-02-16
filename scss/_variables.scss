@@ -1,0 +1,14 @@
+// Primary Colors
+$cls-veryDark-blue:hsl(233, 47%, 7%); //(main background
+$cls-darkDesaturated-blue:hsl(244, 38%, 16%); //card background
+$cls-softViolet:hsl(277, 64%, 61%); //accent
+$cls-softViolet-50:rgba(170, 92, 219, 0.326); //accent
+//Neutral Colors
+$cls-white-100:hsl(0, 0%, 100%); //(main heading, stats)
+$cls-white-75:hsla(0, 0%, 100%, 0.75); //main paragraph
+$cls-white-60: hsla(0, 0%, 100%, 0.6); //main heading, stats
+// Fonts
+$ff-heading: 'Inter',
+sans-serif;
+$ff-body: 'Lexend Deca',
+sans-serif;
